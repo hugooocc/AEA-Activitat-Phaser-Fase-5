@@ -1,0 +1,5 @@
+/* Reset mínim: els estils de la interfície són a App.vue (<style scoped>) */
+body {
+  margin: 0;
+  background: #0f172a;
+}
